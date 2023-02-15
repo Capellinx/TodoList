@@ -43,4 +43,4 @@ In this project I was able to delve even further into the manipulation of the Do
 
 ## 📲 Links
 
-- Live Site URL: https://teal-phoenix-166164.netlify.app/
+- Live Site URL: https://capellinx.github.io/TodoList/
